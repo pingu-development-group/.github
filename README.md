@@ -1,1 +1,1 @@
-# .github
+# Pingu Development Group
